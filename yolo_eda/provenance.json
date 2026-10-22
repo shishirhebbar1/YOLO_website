@@ -1,0 +1,19 @@
+{
+  "repository": "shishirhebbar1/YOLO_website",
+  "commit": "a036695f0951ba90fff505bcbdf991ac9ad6fa8b",
+  "source_path": "tests/fixtures/synthetic_detections.csv",
+  "git_blob_sha1": "3e855240a3bdec7e622e55941ef09e9006e7f864",
+  "analysis_contract": [
+    "All six records retained; no exclusions or outlier removal.",
+    "Synthetic fixture only, no performance interpretation or model-class verification.",
+    "Normalized centers and dimensions, x rightward and y downward, tested for bounds.",
+    "Descriptive statistics only; no distributional or independence assumptions or inferential comparisons.",
+    "Confidence >= threshold; thresholds illustrative, not selected operating points."
+  ],
+  "versions": {
+    "python": "3.12.14 | packaged by conda-forge | (main, Aug 21 2026, 22:36:41) [GCC 14.4.0]",
+    "pandas": "2.2.3",
+    "numpy": "1.26.4",
+    "matplotlib": "3.9.2"
+  }
+}

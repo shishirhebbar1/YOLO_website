@@ -1,0 +1,7 @@
+illustrative_threshold,retained_records,total_records
+0.0,6,6
+0.25,6,6
+0.5,5,6
+0.75,4,6
+0.9,2,6
+0.95,1,6

@@ -1,0 +1,7 @@
+image_id,model_variant,class_name,confidence,x_center,y_center,width,height,is_synthetic,x_min,x_max,y_min,y_max,box_area_fraction,width_height_ratio,box_in_bounds
+synthetic_001,hardhat,helmet,0.95,0.5,0.3,0.2,0.25,True,0.4,0.6,0.175,0.425,0.05,0.8,True
+synthetic_002,hardhat,person,0.88,0.45,0.5,0.3,0.7,True,0.30000000000000004,0.6,0.15000000000000002,0.85,0.21,0.4285714285714286,True
+synthetic_003,food,apple,0.91,0.35,0.4,0.2,0.2,True,0.24999999999999997,0.44999999999999996,0.30000000000000004,0.5,0.04000000000000001,1.0,True
+synthetic_004,food,banana,0.62,0.6,0.55,0.3,0.15,True,0.44999999999999996,0.75,0.47500000000000003,0.625,0.045,2.0,True
+synthetic_005,pascal,dog,0.85,0.5,0.6,0.4,0.35,True,0.3,0.7,0.425,0.7749999999999999,0.13999999999999999,1.142857142857143,True
+synthetic_006,pascal,cat,0.25,0.7,0.45,0.2,0.3,True,0.6,0.7999999999999999,0.30000000000000004,0.6,0.06,0.6666666666666667,True

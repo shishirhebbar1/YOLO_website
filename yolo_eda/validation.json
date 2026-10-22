@@ -1,0 +1,14 @@
+{
+  "records": 6,
+  "columns": 9,
+  "unique_image_ids": 6,
+  "unique_classes": 6,
+  "unique_model_groups": 3,
+  "missing_cells": 0,
+  "duplicate_rows": 0,
+  "duplicate_image_ids": 0,
+  "all_synthetic": true,
+  "all_scores_and_coordinates_in_unit_interval": true,
+  "all_dimensions_positive": true,
+  "all_boxes_within_unit_image": true
+}

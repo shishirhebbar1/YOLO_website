@@ -1,0 +1,4 @@
+model_variant,records,confidence_mean,confidence_median,confidence_min,confidence_max,mean_box_area_fraction
+food,2,0.765,0.765,0.62,0.91,0.0425
+hardhat,2,0.915,0.915,0.88,0.95,0.13
+pascal,2,0.55,0.55,0.25,0.85,0.09999999999999999

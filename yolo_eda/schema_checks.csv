@@ -1,0 +1,10 @@
+column,dtype,missing
+image_id,object,0
+model_variant,object,0
+class_name,object,0
+confidence,float64,0
+x_center,float64,0
+y_center,float64,0
+width,float64,0
+height,float64,0
+is_synthetic,bool,0
